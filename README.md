@@ -1,4 +1,4 @@
-# To-Do Manager
+# DoBee
 
 A minimal, beautiful, and efficient to-do manager built with React, Redux Toolkit, and Tailwind CSS.
 
